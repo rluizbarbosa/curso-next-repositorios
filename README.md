@@ -8,7 +8,7 @@ Esse projeto é para você conseguir adicionar repositórios do GitHub a seus fa
 
 ### Link do projeto Publicado
 
-[Link](https://curso-next-repositorios.vercel.app/)
+[Projeto publicado](https://curso-next-repositorios.vercel.app/)
 
 
 ### Siga-me nas redes Sociais
